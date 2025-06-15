@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3eb724ed-06d5-41bb-a7d9-d07dfc9e1ccf" name="Changes" comment="Java" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {}
+}</component>
+  <component name="GitHubPullRequestState">{
+  &quot;prStates&quot;: [
+    {
+      &quot;id&quot;: {
+        &quot;id&quot;: &quot;PR_kwDOOzPuS86al1sP&quot;,
+        &quot;number&quot;: 1
+      },
+      &quot;lastSeen&quot;: 1749995608846
+    }
+  ]
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sandyyy20/Java.git&quot;,
+    &quot;accountId&quot;: &quot;f51b84d0-8800-4749-9523-7cf0f49e705b&quot;
+  },
+  &quot;recentNewPullRequestHead&quot;: {
+    &quot;server&quot;: {
+      &quot;useHttp&quot;: false,
+      &quot;host&quot;: &quot;github.com&quot;,
+      &quot;port&quot;: null,
+      &quot;suffix&quot;: null
+    },
+    &quot;owner&quot;: &quot;sandyyy20&quot;,
+    &quot;repository&quot;: &quot;Java&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Day1.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2xa3k9CIC9j0pBvhlST3uf3dL1y" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BubbleSorting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ClearBit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GetBit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GretestNumberinArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InsertionSorting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Inverthalfpyrmid.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SelectionSorting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SetBit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SprialMatrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringBuilder.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TransposeMatrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TwoDArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UpdateBit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.assignnumberinarray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.average.executor&quot;: &quot;Run&quot;,
+    &quot;Application.binarytriangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.butterfly.executor&quot;: &quot;Run&quot;,
+    &quot;Application.check.executor&quot;: &quot;Run&quot;,
+    &quot;Application.circumfernceofcircle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.cominedArrayString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.commondivisor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.compareString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.count.executor&quot;: &quot;Run&quot;,
+    &quot;Application.daimond.executor&quot;: &quot;Run&quot;,
+    &quot;Application.deletingString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.fibonacciseries.executor&quot;: &quot;Run&quot;,
+    &quot;Application.findIndexvaluein2dDArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.floydstrianglePattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.functions.executor&quot;: &quot;Run&quot;,
+    &quot;Application.greater.executor&quot;: &quot;Run&quot;,
+    &quot;Application.greatestNumberinArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.halfpyrmid.executor&quot;: &quot;Run&quot;,
+    &quot;Application.hallowrohmbus.executor&quot;: &quot;Run&quot;,
+    &quot;Application.hello.executor&quot;: &quot;Run&quot;,
+    &quot;Application.infiniteloop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.invertNumberPattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.loop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.numberPattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.numberprymid.executor&quot;: &quot;Run&quot;,
+    &quot;Application.orders.executor&quot;: &quot;Run&quot;,
+    &quot;Application.palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.parseInt.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.powerofNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pyrmid.executor&quot;: &quot;Run&quot;,
+    &quot;Application.replaceString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.reversepyrmid.executor&quot;: &quot;Run&quot;,
+    &quot;Application.reversestringBuilder.executor&quot;: &quot;Run&quot;,
+    &quot;Application.signed.executor&quot;: &quot;Run&quot;,
+    &quot;Application.solidrohmbus.executor&quot;: &quot;Run&quot;,
+    &quot;Application.statement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.string.executor&quot;: &quot;Run&quot;,
+    &quot;Application.stringBuilder.executor&quot;: &quot;Run&quot;,
+    &quot;Application.stringarray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.substring.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sumofAllOddNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.voting.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Nikhil/IdeaProjects/Java/Day 1/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.GretestNumberinArray">
+    <configuration name="GretestNumberinArray" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GretestNumberinArray" />
+      <module name="Day 1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignnumberinarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignnumberinarray" />
+      <module name="Day 1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.assignnumberinarray" />
+        <item itemvalue="Application.assignnumberinarray" />
+        <item itemvalue="Application.assignnumberinarray" />
+        <item itemvalue="Application.assignnumberinarray" />
+        <item itemvalue="Application.assignnumberinarray" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3eb724ed-06d5-41bb-a7d9-d07dfc9e1ccf" name="Changes" comment="" />
+      <created>1748162527137</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1748162527137</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Day 1">
+      <option name="closed" value="true" />
+      <created>1748162767064</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1748162767064</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Day 2">
+      <option name="closed" value="true" />
+      <created>1748163155439</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1748163155439</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Day 1">
+      <option name="closed" value="true" />
+      <created>1748163713480</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1748163713480</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Java">
+      <option name="closed" value="true" />
+      <created>1748612007088</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1748612007088</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Java">
+      <option name="closed" value="true" />
+      <created>1749995093024</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1749995093024</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Day 2" />
+    <MESSAGE value="Day 1" />
+    <MESSAGE value="Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java" />
+  </component>
+</project>
